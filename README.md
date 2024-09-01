@@ -1,1 +1,1 @@
-Tela de login do aplicátivo da estácio feito usando Html, css e React Native
+Tela de login do aplicátivo da estácio feito usando Html, CSS e React Native.
